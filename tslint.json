@@ -1,0 +1,27 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:all"],
+  "rules": {
+    "arrow-parens": false,
+    "arrow-return-shorthand": true,
+    "indent": [true, "spaces", 2],
+    "interface-name": false,
+    "linebreak-style": [true, "LF"],
+    "member-ordering": { "options": { "order": "statics-first" } },
+    "newline-before-return": false,
+    "no-any": false,
+    "no-implicit-dependencies": [true, "dev"],
+    "prefer-function-over-method": false,
+    "quotemark": [
+      true,
+      "single",
+      "jsx-double",
+      "avoid-escape",
+      "avoid-template"
+    ],
+    "semicolon": [true, "never"],
+    "space-before-function-paren": false,
+    "typedef": false,
+    "typeof-compare": false
+  }
+}
