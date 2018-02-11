@@ -9,6 +9,7 @@
     "linebreak-style": [true, "LF"],
     "member-ordering": { "options": { "order": "statics-first" } },
     "newline-before-return": false,
+    "newline-per-chained-call": false,
     "no-any": false,
     "no-implicit-dependencies": [true, "dev"],
     "prefer-function-over-method": false,
