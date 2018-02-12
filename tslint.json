@@ -12,6 +12,7 @@
     "newline-per-chained-call": false,
     "no-any": false,
     "no-implicit-dependencies": [true, "dev"],
+    "object-literal-sort-keys": false,
     "prefer-function-over-method": false,
     "quotemark": [
       true,
