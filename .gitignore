@@ -1,1 +1,5 @@
+/node_modules
+/tslint/rules/dist
+
 .DS_Store
+npm-debug.log*
