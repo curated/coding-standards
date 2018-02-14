@@ -1,6 +1,6 @@
 {
   "name": "curated-coding-standards",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "shared configurations across all repositories to help ensure quality and consistency",
   "author": "Wagner Camarao <wagner@camarao.io>",
   "license": "MIT",
