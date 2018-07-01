@@ -14,7 +14,7 @@ cd $GOPATH/src/github.com/curated/devtools
 make link
 ```
 
-Clone other curated repositories
+Clone curated repositories
 
 ```
 make pull
